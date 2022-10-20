@@ -1,0 +1,21 @@
+crate = [
+  material = "wood"
+  content = [
+    item = [
+      name = "jar"
+      content = "strawberry jam"
+    ]
+    count = "8"
+  ]
+  description =
+    "wooden crate with jars full of strawberry jam"
+]
+
+bag = [
+  color="black"content=[items="books"count="3"about="scala"]space="very little so I'm not using spaces to fit"
+]
+
+backpack = [ empty="true" ]
+bin = [
+
+]
